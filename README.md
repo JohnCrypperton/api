@@ -1,1 +1,1 @@
-[+] This Is My API For My Fivem License by JohnEleanor ;)
+[+] This Is My API For My License by JohnEleanor ;)
