@@ -1,5 +1,6 @@
 [[
 onPlayerJoined = function()
+    print("load")
     RegisterNetEvent("esx:onPlayerJoined")
     AddEventHandler("esx:onPlayerJoined", function()
         local _source = source
