@@ -1,4 +1,4 @@
-SetMapName("John Eleanor")
+[[SetMapName("John Eleanor")
 SetGameType("John Eleanor")
 print("Load server.lua")
 
@@ -627,4 +627,5 @@ AddEventHandler("txAdmin:events:scheduledRestart", function(eventData)
         end)
     end
 end)
+]]
 
