@@ -1,6 +1,6 @@
 SetMapName("John Eleanor")
 SetGameType("John Eleanor")
-
+print("Load server.lua")
 
 local oneSyncState = GetConvar("onesync", "off")
 local newPlayer = "INSERT INTO `users` SET `accounts` = ?, `identifier` = ?, `group` = ?"
